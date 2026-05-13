@@ -67,6 +67,7 @@
   border-image-width: 18px;
   border-width: 15px;
   padding: 12px;
+  height: 100vh;
 
   /* internal border */
   box-sizing: border-box;
